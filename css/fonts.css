@@ -1,0 +1,37 @@
+/*---- font-faces ----*/
+@font-face {
+font-family: 'weblysleek_uilight';
+src: url('../fonts/weblysleekuil-webfont.eot');
+src: url('../fonts/weblysleekuil-webfont.eot?#iefix') format('embedded-opentype'),
+ url('../fonts/weblysleekuil-webfont.woff2') format('woff2'),
+ url('../fonts/weblysleekuil-webfont.woff') format('woff'),
+ url('../fonts/weblysleekuil-webfont.ttf') format('truetype'),
+ url('../fonts/weblysleekuil-webfont.svg#weblysleek_uilight') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: 'weblysleek_uisemibold';
+src: url('../fonts/weblysleekuisb-webfont.eot');
+src: url('../fonts/weblysleekuisb-webfont.eot?#iefix') format('embedded-opentype'),
+ url('../fonts/weblysleekuisb-webfont.woff2') format('woff2'),
+ url('../fonts/weblysleekuisb-webfont.woff') format('woff'),
+ url('../fonts/weblysleekuisb-webfont.ttf') format('truetype'),
+ url('../fonts/weblysleekuisb-webfont.svg#weblysleek_uisemibold') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: 'weblysleek_uisemilight';
+src: url('../fonts/weblysleekuisl-webfont.eot');
+src: url('../fonts/weblysleekuisl-webfont.eot?#iefix') format('embedded-opentype'),
+ url('../fonts/weblysleekuisl-webfont.woff2') format('woff2'),
+ url('../fonts/weblysleekuisl-webfont.woff') format('woff'),
+ url('../fonts/weblysleekuisl-webfont.ttf') format('truetype'),
+ url('../fonts/weblysleekuisl-webfont.svg#weblysleek_uisemilight') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
